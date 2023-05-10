@@ -4,7 +4,7 @@
 <h3 align="center"> 🛠Tech Stack🛠 </h3>
 <h5 align="center">Techs that i've used at least once</h5>
 <div align="center">
-  <img alt="JavaScript" src ="https://img.shields.io/badge/-JavaScript-f7df1e.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
+<!--   <img alt="JavaScript" src ="https://img.shields.io/badge/-JavaScript-f7df1e.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> -->
   <img alt="HTML5" src ="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
   <img alt="CSS3" src ="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
